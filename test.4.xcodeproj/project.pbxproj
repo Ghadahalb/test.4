@@ -7,10 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		692C1F802ACE16A000E7F85B /* regins.gif in Resources */ = {isa = PBXBuildFile; fileRef = 692C1F7F2ACE16A000E7F85B /* regins.gif */; };
-		692C1F812ACE16A000E7F85B /* regins.gif in Resources */ = {isa = PBXBuildFile; fileRef = 692C1F7F2ACE16A000E7F85B /* regins.gif */; };
-		692C1F822ACE16A000E7F85B /* regins.gif in Resources */ = {isa = PBXBuildFile; fileRef = 692C1F7F2ACE16A000E7F85B /* regins.gif */; };
-		692C1FF42AD1DEE600E7F85B /* #2GIF.gif in Resources */ = {isa = PBXBuildFile; fileRef = 692C1FF32AD1DEE600E7F85B /* #2GIF.gif */; };
+		69D8552F2AD7D03000A08F5B /* oven1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D8552E2AD7D03000A08F5B /* oven1.gif */; };
+		69D855302AD7D03000A08F5B /* oven1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D8552E2AD7D03000A08F5B /* oven1.gif */; };
+		69D855312AD7D03000A08F5B /* oven1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D8552E2AD7D03000A08F5B /* oven1.gif */; };
+		69D855332AD7E3AE00A08F5B /* خلفية الطاحونة.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D855322AD7E3AE00A08F5B /* خلفية الطاحونة.gif */; };
+		69D855342AD7E3AE00A08F5B /* خلفية الطاحونة.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D855322AD7E3AE00A08F5B /* خلفية الطاحونة.gif */; };
+		69D855352AD7E3AE00A08F5B /* خلفية الطاحونة.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D855322AD7E3AE00A08F5B /* خلفية الطاحونة.gif */; };
+		69D855372AD7EF2700A08F5B /* pour0.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69D855362AD7EF2700A08F5B /* pour0.mp3 */; };
+		69D855382AD7EF2700A08F5B /* pour0.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69D855362AD7EF2700A08F5B /* pour0.mp3 */; };
+		69D855392AD7EF2700A08F5B /* pour0.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69D855362AD7EF2700A08F5B /* pour0.mp3 */; };
+		69D8553B2ADBBCDE00A08F5B /* home.sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69D8553A2ADBBCDE00A08F5B /* home.sound.mp3 */; };
+		69D8553C2ADBBCDE00A08F5B /* home.sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69D8553A2ADBBCDE00A08F5B /* home.sound.mp3 */; };
+		69D8553D2ADBBCDE00A08F5B /* home.sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69D8553A2ADBBCDE00A08F5B /* home.sound.mp3 */; };
+		69D8553F2ADBBF9300A08F5B /* background2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69D8553E2ADBBF9300A08F5B /* background2.mp3 */; };
+		69D855402ADBBF9300A08F5B /* background2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69D8553E2ADBBF9300A08F5B /* background2.mp3 */; };
+		69D855412ADBBF9300A08F5B /* background2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69D8553E2ADBBF9300A08F5B /* background2.mp3 */; };
+		69D855432ADBDE9F00A08F5B /* مرحلة الغلي بدون المكونات.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D855422ADBDE9F00A08F5B /* مرحلة الغلي بدون المكونات.gif */; };
+		69D855442ADBDE9F00A08F5B /* مرحلة الغلي بدون المكونات.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D855422ADBDE9F00A08F5B /* مرحلة الغلي بدون المكونات.gif */; };
+		69D855452ADBDE9F00A08F5B /* مرحلة الغلي بدون المكونات.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D855422ADBDE9F00A08F5B /* مرحلة الغلي بدون المكونات.gif */; };
+		69D8554B2ADBE4AB00A08F5B /* مرحلة الصب.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D8554A2ADBE4AB00A08F5B /* مرحلة الصب.gif */; };
+		69D8554C2ADBE4AB00A08F5B /* مرحلة الصب.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D8554A2ADBE4AB00A08F5B /* مرحلة الصب.gif */; };
+		69D8554D2ADBE4AB00A08F5B /* مرحلة الصب.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D8554A2ADBE4AB00A08F5B /* مرحلة الصب.gif */; };
+		69D8554F2ADBE59300A08F5B /* pourView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69D8554E2ADBE59300A08F5B /* pourView.swift */; };
+		69D855502ADBE59300A08F5B /* pourView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69D8554E2ADBE59300A08F5B /* pourView.swift */; };
+		69D855512ADBE59300A08F5B /* pourView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69D8554E2ADBE59300A08F5B /* pourView.swift */; };
+		69D855532ADBE66700A08F5B /* اخر ضفحة للفوز.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D855522ADBE66700A08F5B /* اخر ضفحة للفوز.gif */; };
+		69D855542ADBE66700A08F5B /* اخر ضفحة للفوز.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D855522ADBE66700A08F5B /* اخر ضفحة للفوز.gif */; };
+		69D855552ADBE66700A08F5B /* اخر ضفحة للفوز.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D855522ADBE66700A08F5B /* اخر ضفحة للفوز.gif */; };
+		69EB8CCC2AD54C64008FA413 /* oven.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69EB8CCB2AD54C64008FA413 /* oven.gif */; };
+		69EB8CCD2AD54C64008FA413 /* oven.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69EB8CCB2AD54C64008FA413 /* oven.gif */; };
+		69EB8CCE2AD54C64008FA413 /* oven.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69EB8CCB2AD54C64008FA413 /* oven.gif */; };
+		69EB8CD02AD55401008FA413 /* #1 Home page.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69EB8CCF2AD55400008FA413 /* #1 Home page.gif */; };
+		69EB8CD12AD55401008FA413 /* #1 Home page.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69EB8CCF2AD55400008FA413 /* #1 Home page.gif */; };
+		69EB8CD22AD55401008FA413 /* #1 Home page.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69EB8CCF2AD55400008FA413 /* #1 Home page.gif */; };
+		69EB8CD82AD556BC008FA413 /* # 2 Options page.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69EB8CD72AD556BC008FA413 /* # 2 Options page.gif */; };
+		69EB8CD92AD556BC008FA413 /* # 2 Options page.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69EB8CD72AD556BC008FA413 /* # 2 Options page.gif */; };
+		69EB8CDA2AD556BC008FA413 /* # 2 Options page.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69EB8CD72AD556BC008FA413 /* # 2 Options page.gif */; };
 		6AFC484E2ACC0FB5005676F5 /* test_4App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFC484D2ACC0FB5005676F5 /* test_4App.swift */; };
 		6AFC48502ACC0FB5005676F5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFC484F2ACC0FB5005676F5 /* ContentView.swift */; };
 		6AFC48522ACC0FB6005676F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AFC48512ACC0FB6005676F5 /* Assets.xcassets */; };
@@ -18,11 +50,8 @@
 		6AFC485F2ACC0FB6005676F5 /* test_4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFC485E2ACC0FB6005676F5 /* test_4Tests.swift */; };
 		6AFC48692ACC0FB6005676F5 /* test_4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFC48682ACC0FB6005676F5 /* test_4UITests.swift */; };
 		6AFC486B2ACC0FB6005676F5 /* test_4UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFC486A2ACC0FB6005676F5 /* test_4UITestsLaunchTests.swift */; };
-		6AFC48782ACC1006005676F5 /* home.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6AFC48772ACC1006005676F5 /* home.gif */; };
 		6AFC487A2ACC234E005676F5 /* GifImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFC48792ACC234E005676F5 /* GifImage.swift */; };
 		6AFC487C2ACC7B2C005676F5 /* Sounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFC487B2ACC7B2C005676F5 /* Sounds.swift */; };
-		6AFC487E2ACC7E43005676F5 /* arabic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6AFC487D2ACC7E43005676F5 /* arabic.mp3 */; };
-		6AFC48802ACC8D7F005676F5 /* AudioPlayerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFC487F2ACC8D7F005676F5 /* AudioPlayerManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,8 +72,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		692C1F7F2ACE16A000E7F85B /* regins.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = regins.gif; sourceTree = "<group>"; };
-		692C1FF32AD1DEE600E7F85B /* #2GIF.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "#2GIF.gif"; sourceTree = "<group>"; };
+		69D8552E2AD7D03000A08F5B /* oven1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = oven1.gif; sourceTree = "<group>"; };
+		69D855322AD7E3AE00A08F5B /* خلفية الطاحونة.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "خلفية الطاحونة.gif"; sourceTree = "<group>"; };
+		69D855362AD7EF2700A08F5B /* pour0.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pour0.mp3; sourceTree = "<group>"; };
+		69D8553A2ADBBCDE00A08F5B /* home.sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = home.sound.mp3; sourceTree = "<group>"; };
+		69D8553E2ADBBF9300A08F5B /* background2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = background2.mp3; sourceTree = "<group>"; };
+		69D855422ADBDE9F00A08F5B /* مرحلة الغلي بدون المكونات.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "مرحلة الغلي بدون المكونات.gif"; sourceTree = "<group>"; };
+		69D8554A2ADBE4AB00A08F5B /* مرحلة الصب.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "مرحلة الصب.gif"; sourceTree = "<group>"; };
+		69D8554E2ADBE59300A08F5B /* pourView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pourView.swift; sourceTree = "<group>"; };
+		69D855522ADBE66700A08F5B /* اخر ضفحة للفوز.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "اخر ضفحة للفوز.gif"; sourceTree = "<group>"; };
+		69EB8CCB2AD54C64008FA413 /* oven.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = oven.gif; sourceTree = "<group>"; };
+		69EB8CCF2AD55400008FA413 /* #1 Home page.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "#1 Home page.gif"; sourceTree = "<group>"; };
+		69EB8CD72AD556BC008FA413 /* # 2 Options page.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "# 2 Options page.gif"; sourceTree = "<group>"; };
 		6AFC484A2ACC0FB5005676F5 /* test.4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AFC484D2ACC0FB5005676F5 /* test_4App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_4App.swift; sourceTree = "<group>"; };
 		6AFC484F2ACC0FB5005676F5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,11 +94,8 @@
 		6AFC48642ACC0FB6005676F5 /* test.4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test.4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AFC48682ACC0FB6005676F5 /* test_4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_4UITests.swift; sourceTree = "<group>"; };
 		6AFC486A2ACC0FB6005676F5 /* test_4UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_4UITestsLaunchTests.swift; sourceTree = "<group>"; };
-		6AFC48772ACC1006005676F5 /* home.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = home.gif; sourceTree = "<group>"; };
 		6AFC48792ACC234E005676F5 /* GifImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifImage.swift; sourceTree = "<group>"; };
 		6AFC487B2ACC7B2C005676F5 /* Sounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sounds.swift; sourceTree = "<group>"; };
-		6AFC487D2ACC7E43005676F5 /* arabic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = arabic.mp3; sourceTree = "<group>"; };
-		6AFC487F2ACC8D7F005676F5 /* AudioPlayerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,15 +148,22 @@
 			children = (
 				6AFC484D2ACC0FB5005676F5 /* test_4App.swift */,
 				6AFC484F2ACC0FB5005676F5 /* ContentView.swift */,
-				6AFC48772ACC1006005676F5 /* home.gif */,
-				692C1F7F2ACE16A000E7F85B /* regins.gif */,
-				692C1FF32AD1DEE600E7F85B /* #2GIF.gif */,
+				69D8554E2ADBE59300A08F5B /* pourView.swift */,
+				69EB8CCF2AD55400008FA413 /* #1 Home page.gif */,
+				69EB8CCB2AD54C64008FA413 /* oven.gif */,
+				69EB8CD72AD556BC008FA413 /* # 2 Options page.gif */,
+				69D8552E2AD7D03000A08F5B /* oven1.gif */,
+				69D855322AD7E3AE00A08F5B /* خلفية الطاحونة.gif */,
+				69D855422ADBDE9F00A08F5B /* مرحلة الغلي بدون المكونات.gif */,
+				69D8554A2ADBE4AB00A08F5B /* مرحلة الصب.gif */,
+				69D855522ADBE66700A08F5B /* اخر ضفحة للفوز.gif */,
+				69D8553A2ADBBCDE00A08F5B /* home.sound.mp3 */,
+				69D855362AD7EF2700A08F5B /* pour0.mp3 */,
+				69D8553E2ADBBF9300A08F5B /* background2.mp3 */,
 				6AFC48512ACC0FB6005676F5 /* Assets.xcassets */,
-				6AFC487D2ACC7E43005676F5 /* arabic.mp3 */,
 				6AFC48532ACC0FB6005676F5 /* Preview Content */,
 				6AFC48792ACC234E005676F5 /* GifImage.swift */,
 				6AFC487B2ACC7B2C005676F5 /* Sounds.swift */,
-				6AFC487F2ACC8D7F005676F5 /* AudioPlayerManager.swift */,
 			);
 			path = test.4;
 			sourceTree = "<group>";
@@ -255,11 +298,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AFC48552ACC0FB6005676F5 /* Preview Assets.xcassets in Resources */,
-				6AFC48782ACC1006005676F5 /* home.gif in Resources */,
-				6AFC487E2ACC7E43005676F5 /* arabic.mp3 in Resources */,
+				69EB8CCC2AD54C64008FA413 /* oven.gif in Resources */,
+				69D855332AD7E3AE00A08F5B /* خلفية الطاحونة.gif in Resources */,
 				6AFC48522ACC0FB6005676F5 /* Assets.xcassets in Resources */,
-				692C1FF42AD1DEE600E7F85B /* #2GIF.gif in Resources */,
-				692C1F802ACE16A000E7F85B /* regins.gif in Resources */,
+				69EB8CD82AD556BC008FA413 /* # 2 Options page.gif in Resources */,
+				69D855372AD7EF2700A08F5B /* pour0.mp3 in Resources */,
+				69D8553B2ADBBCDE00A08F5B /* home.sound.mp3 in Resources */,
+				69D855532ADBE66700A08F5B /* اخر ضفحة للفوز.gif in Resources */,
+				69D8553F2ADBBF9300A08F5B /* background2.mp3 in Resources */,
+				69D855432ADBDE9F00A08F5B /* مرحلة الغلي بدون المكونات.gif in Resources */,
+				69D8552F2AD7D03000A08F5B /* oven1.gif in Resources */,
+				69D8554B2ADBE4AB00A08F5B /* مرحلة الصب.gif in Resources */,
+				69EB8CD02AD55401008FA413 /* #1 Home page.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,7 +317,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				692C1F812ACE16A000E7F85B /* regins.gif in Resources */,
+				69D8554C2ADBE4AB00A08F5B /* مرحلة الصب.gif in Resources */,
+				69D855442ADBDE9F00A08F5B /* مرحلة الغلي بدون المكونات.gif in Resources */,
+				69EB8CD12AD55401008FA413 /* #1 Home page.gif in Resources */,
+				69D855342AD7E3AE00A08F5B /* خلفية الطاحونة.gif in Resources */,
+				69EB8CCD2AD54C64008FA413 /* oven.gif in Resources */,
+				69D855302AD7D03000A08F5B /* oven1.gif in Resources */,
+				69EB8CD92AD556BC008FA413 /* # 2 Options page.gif in Resources */,
+				69D855382AD7EF2700A08F5B /* pour0.mp3 in Resources */,
+				69D8553C2ADBBCDE00A08F5B /* home.sound.mp3 in Resources */,
+				69D855402ADBBF9300A08F5B /* background2.mp3 in Resources */,
+				69D855542ADBE66700A08F5B /* اخر ضفحة للفوز.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +335,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				692C1F822ACE16A000E7F85B /* regins.gif in Resources */,
+				69D8554D2ADBE4AB00A08F5B /* مرحلة الصب.gif in Resources */,
+				69D855452ADBDE9F00A08F5B /* مرحلة الغلي بدون المكونات.gif in Resources */,
+				69EB8CD22AD55401008FA413 /* #1 Home page.gif in Resources */,
+				69D855352AD7E3AE00A08F5B /* خلفية الطاحونة.gif in Resources */,
+				69EB8CCE2AD54C64008FA413 /* oven.gif in Resources */,
+				69D855312AD7D03000A08F5B /* oven1.gif in Resources */,
+				69EB8CDA2AD556BC008FA413 /* # 2 Options page.gif in Resources */,
+				69D855392AD7EF2700A08F5B /* pour0.mp3 in Resources */,
+				69D8553D2ADBBCDE00A08F5B /* home.sound.mp3 in Resources */,
+				69D855412ADBBF9300A08F5B /* background2.mp3 in Resources */,
+				69D855552ADBE66700A08F5B /* اخر ضفحة للفوز.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,7 +357,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AFC48502ACC0FB5005676F5 /* ContentView.swift in Sources */,
-				6AFC48802ACC8D7F005676F5 /* AudioPlayerManager.swift in Sources */,
+				69D8554F2ADBE59300A08F5B /* pourView.swift in Sources */,
 				6AFC484E2ACC0FB5005676F5 /* test_4App.swift in Sources */,
 				6AFC487A2ACC234E005676F5 /* GifImage.swift in Sources */,
 				6AFC487C2ACC7B2C005676F5 /* Sounds.swift in Sources */,
@@ -299,6 +369,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AFC485F2ACC0FB6005676F5 /* test_4Tests.swift in Sources */,
+				69D855502ADBE59300A08F5B /* pourView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +378,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AFC48692ACC0FB6005676F5 /* test_4UITests.swift in Sources */,
+				69D855512ADBE59300A08F5B /* pourView.swift in Sources */,
 				6AFC486B2ACC0FB6005676F5 /* test_4UITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -456,8 +528,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -484,8 +555,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
